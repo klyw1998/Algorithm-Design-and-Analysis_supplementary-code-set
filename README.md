@@ -17,8 +17,8 @@ Huffman Coding
 Dynamic Programming  
 2-D Dynamic Programming  
   
-BFS  
-DFS  
+Breath First Search  
+Depth First Search  
   
 Prim's Algorithm  
 Kruskal's Algorithm  
