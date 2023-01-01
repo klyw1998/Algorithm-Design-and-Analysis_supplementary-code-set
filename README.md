@@ -3,5 +3,28 @@ One thing that is really hard to be believed is that the Algorithm course only c
 
 ## Algorithm list:
 Binary Search  
-Merge
+Merge Sort  
+  
+Randomized Algorithm  
 
+Quick Sort  
+Heap Sort  
+Linear Sort  
+  
+Greedy Algorithm  
+Huffman Coding  
+  
+Dynamic Programming  
+2-D Dynamic Programming  
+  
+BFS  
+DFS  
+  
+Prim's Algorithm  
+Kruskal's Algorithm  
+  
+Bellman-Ford Algorithm  
+Dijkstra's Algorithm  
+Floyd-Warshall Algorithm  
+  
+Ford-Fulkerson Algorithm  
